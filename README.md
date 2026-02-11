@@ -1,11 +1,10 @@
-## Hi there 👋
+# Hi there 👋 
 
 ## My Projects
 
 ### iOS app
 - 🍏 [SnapSort](https://github.com/LycheeeLu/SnapSort) — Sort/find screenshots by text recognition (Swift)  
-- 🍏 [VocabGrab](https://github.com/LycheeeLu/VocabGrab) — (Swift)  
-
+- 🍏 [VocabGrab](https://github.com/LycheeeLu/VocabGrab) — (Swift) macOS menu bar utility using AppKit and SwiftUI hybrid architecture  to read focused UI elements and selected text from foreground applications and with global hotkey handling to record new vocab/sentences in a system file
 ### LLM AI
 - 🤖 [UniPath-AI-Agent](https://github.com/LycheeeLu/UniPath-AI-Agent) — LLM-powered resume/program/professor matching (Python)  
 - 🤖 [LLMRouter](https://github.com/LycheeeLu/LLMRouter) — Route questions to the right agent + benchmark classifier (Python)
