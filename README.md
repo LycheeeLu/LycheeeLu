@@ -3,8 +3,10 @@
 ## My Projects
 
 ### iOS app
-- 🍏 [SnapSort](https://github.com/LycheeeLu/SnapSort) — Sort/find screenshots by text recognition (Swift)  
+- 🍏 [SnapSort](https://github.com/LycheeeLu/SnapSort) — Sort/find screenshots by text recognition (Swift) and Optical Recognition ML framework
 - 🍏 [VocabGrab](https://github.com/LycheeeLu/VocabGrab) — (Swift) macOS menu bar utility using AppKit and SwiftUI hybrid architecture  to read focused UI elements and selected text from foreground applications and with global hotkey handling to record new vocab/sentences in a system file
+- 🍏 [FoodMe](https://github.com/LycheeeLu/FoodMe) — (Swift)It reads your active calories on the iPhone, converts that energy into equivalent amounts of food (like cups of coffee, bowls of rice, or slices of pizza), and sends the result to the Apple Watch for display. 
+
 ### LLM AI
 - 🤖 [UniPath-AI-Agent](https://github.com/LycheeeLu/UniPath-AI-Agent) — LLM-powered resume/program/professor matching (Python)  
 - 🤖 [LLMRouter](https://github.com/LycheeeLu/LLMRouter) — Route questions to the right agent + benchmark classifier (Python)
