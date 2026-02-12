@@ -39,7 +39,15 @@
 ### iOS app
 - 🍏 [SnapSort](https://github.com/LycheeeLu/SnapSort) — Sort/find screenshots by text recognition (Swift) and Optical Recognition ML framework
 - 🍏 [VocabGrab](https://github.com/LycheeeLu/VocabGrab) — (Swift) macOS menu bar utility using AppKit and SwiftUI hybrid architecture  to read focused UI elements and selected text from foreground applications and with global hotkey handling to record new vocab/sentences in a system file
-- 🍏 [FoodMe](https://github.com/LycheeeLu/FoodMe) — (Swift)It reads your active calories on the iPhone, converts that energy into equivalent amounts of food (like cups of coffee, bowls of rice, or slices of pizza), and sends the result to the Apple Watch for display. 
+- 🍏 [FoodMe](https://github.com/LycheeeLu/FoodMe) — (Swift)It reads your active calories on the iPhone, converts that energy into equivalent amounts of food (like cups of coffee, bowls of rice, or slices of pizza), and sends the result to the Apple Watch for display.
+
+### React Native app
+- 📱 [Trailii](https://github.com/LycheeeLu/Trailii) — Travel planner (React / HTML)  + firebase + googleMap api + optimization route algorithm
+- 📱 [Arduino RoboCar Control](https://github.com/LycheeeLu/Arduino-RoboCar-Control-) — Bluetooth Arduino car controller (React Native / TS)
+
+### Data visualization
+- 📊 [data-visualization---yelp-review-and-rating-analysis](https://github.com/LycheeeLu/data-visualization---yelp-review-and-rating-analysis) — (Python)  
+- 📊 [VideoEmoji](https://github.com/LycheeeLu/VideoEmoji) — Real-time emoji visualization for live streams (Vue)  
 
 ### LLM AI
 - 🤖 [UniPath-AI-Agent](https://github.com/LycheeeLu/UniPath-AI-Agent) — LLM-powered resume/program/professor matching (Python)  
@@ -50,14 +58,6 @@
 ### Text search
 - 🔎 [SpecSearch_RAG_LLM](https://github.com/LycheeeLu/SpecSearch_RAG_LLM) — Search large, confidential technical documents (Python)  
 - 🔎 [lucene-text-search-demo](https://github.com/LycheeeLu/lucene-text-search-demo) — (HTML)  
-
-### Data visualization
-- 📊 [data-visualization---yelp-review-and-rating-analysis](https://github.com/LycheeeLu/data-visualization---yelp-review-and-rating-analysis) — (Python)  
-- 📊 [VideoEmoji](https://github.com/LycheeeLu/VideoEmoji) — Real-time emoji visualization for live streams (Vue)  
-
-### React Native app
-- 📱 [Trailii](https://github.com/LycheeeLu/Trailii) — Travel planner (React / HTML)  + firebase + googleMap api + optimization route algorithm
-- 📱 [Arduino RoboCar Control](https://github.com/LycheeeLu/Arduino-RoboCar-Control-) — Bluetooth Arduino car controller (React Native / TS)
 
 ### IoT pipeline 
 - 🧱 [barbecue-master](https://github.com/LycheeeLu/barbecue-master) — IoT pipeline + dashboard (JavaScript)
