@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋 woomy
 
 ## My Projects
 
@@ -23,7 +23,7 @@
 
 ### React Native app
 - 📱 [Trailii](https://github.com/LycheeeLu/Trailii) — Travel planner (React / HTML)  + firebase + googleMap api + optimization route algorithm
-- 📱 [auto-car-nav](https://github.com/LycheeeLu/auto-car-nav-1.0) — Bluetooth Arduino car controller (React Native / TS)
+- 📱 [Arduino RoboCar Control](https://github.com/LycheeeLu/Arduino-RoboCar-Control-) — Bluetooth Arduino car controller (React Native / TS)
 
 ### IoT pipeline 
 - 🧱 [barbecue-master](https://github.com/LycheeeLu/barbecue-master) — IoT pipeline + dashboard (JavaScript)  
