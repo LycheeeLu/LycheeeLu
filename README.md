@@ -26,7 +26,8 @@
 - 📱 [Arduino RoboCar Control](https://github.com/LycheeeLu/Arduino-RoboCar-Control-) — Bluetooth Arduino car controller (React Native / TS)
 
 ### IoT pipeline 
-- 🧱 [barbecue-master](https://github.com/LycheeeLu/barbecue-master) — IoT pipeline + dashboard (JavaScript)  
+- 🧱 [barbecue-master](https://github.com/LycheeeLu/barbecue-master) — IoT pipeline + dashboard (JavaScript)
+- 🧱 [Weather-Station-IoT](https://github.com/LycheeeLu/Weather-Station-IOT/tree/main) - An Arduino-based IoT Weather Station that measures: Wind Speed, Wind Direction, Publishes data via MQTT, Displays live data on a 20x4 LCD, Connects via Ethernet (DHCP)
 
 ### Game
 - 🏠 [BuiltYourHouse](https://github.com/LycheeeLu/BuiltYourHouse) — House layout + furniture arrangement (Makefile) built with Qt (C++)  
