@@ -50,6 +50,7 @@
 - 📊 [VideoEmoji](https://github.com/LycheeeLu/VideoEmoji) — Real-time emoji visualization for live streams (Vue)  
 
 ### LLM AI
+- 🤖 [Meeting->Action] (https://github.com/joseguardo/404NotFound/tree/main) -  Upload a transcript (or connect Granola/Recall.ai), and the system automatically extracts action items, identifies urgency, assigns them to the right people, and dispatches communications via email, phone call, or Linear ticket.
 - 🤖 [UniPath-AI-Agent](https://github.com/LycheeeLu/UniPath-AI-Agent) — LLM-powered resume/program/professor matching (Python)  
 - 🤖 [LLMRouter](https://github.com/LycheeeLu/LLMRouter) — Route questions to the right agent + benchmark classifier (Python)
 - 🤖/🔎 [SpecSearch_RAG_LLM](https://github.com/LycheeeLu/SpecSearch_RAG_LLM) — Search large, confidential technical documents (Python) with LLM query suggestion + summarization
